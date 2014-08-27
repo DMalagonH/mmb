@@ -1,0 +1,22 @@
+body {background:#fff url(brown/bg.jpg) repeat-x 0 0;}
+body.home {background:#fff url(brown/bg_home.jpg) repeat-x 0 0;}
+.jqueryslidemenu ul li a {color:#fff;border-right:1px solid #110b05;border-left:1px solid #2a1c0e;text-shadow:1px 1px #000}
+.jqueryslidemenu ul li a span {color:#A5A5A5;}
+.jqueryslidemenu ul li ul li ul{background:#353535;border:1px solid #211913}
+.jqueryslidemenu ul li ul li a:hover{background: #353535;}
+
+#featured_content h3 a, #other_news h2 a, #twitter_news h2 a, .post_content h2.entry_title, .post_content h2.entry_title a  {color:#6e5c4d;}
+#footer_top {background:#18130f url(brown/footer_top_bg.jpg) repeat-x 0 0;}
+#footer_top p, #footer_top a {color:#a5a5a5!important}
+#footer_bottom {background:#0f0c09;border-top:1px solid #1a1511;}
+.post_content h3, .post_content h4, .post_content h5, .post_content h6 {color:#18130f;}
+#author-info h4 a, #related_post h3, .sidebar-widget-title, h3#comments-title{color:#18130f;}
+#other_news h4 a {color:#6e5c4d;}
+
+#slide_nav a:hover, #slide_nav a.activeSlide {background:url(brown/hover.png) no-repeat 1px 1px}
+.home .cs-buttons a:hover, .home .cs-active {background:url(brown/hover.png) no-repeat 1px 1px}
+.nivo-controlNav a.active, .nivo-controlNav a:hover {background:url(brown/hover.png) no-repeat 1px 1px}
+
+.wp-pagenavi span.current {background:#5a4f46}
+
+.home .cs-title, .home .cs-prev, .home .cs-next, .nivo-prevNav, .nivo-nextNav, .nivo-caption, .full_left span, .full_right span, .full_bottom span {background-color:#261d15}

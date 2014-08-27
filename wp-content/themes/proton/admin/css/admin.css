@@ -1,0 +1,17 @@
+.clear {clear:both}
+
+.save {background-color:#FFFFE0;border:1px solid #E6DB55;padding:5px}
+
+.form-table {background:#fff;margin-bottom:20px;border:1px solid #E3E3E3;}
+.form-table th {width:20%}
+.form-table td.left {width:38%}
+.form-table input[type="text"], .form-table textarea  {width:95%}
+
+.post_box {width:100%}
+.post_box tr {width:100%}
+.post_box td.left {width:38%}
+.post_box input[type="text"], .post_box textarea  {width:95%}
+.post_box desc {font-size:12pt}
+
+.hide {display:none}
+.show {visibility:visible;}

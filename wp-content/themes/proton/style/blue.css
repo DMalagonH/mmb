@@ -1,0 +1,21 @@
+body {background:#fff url(blue/bg.jpg) repeat-x 0 0;}
+body.home {background:#fff url(blue/bg_home.jpg) repeat-x 0 0;}
+.jqueryslidemenu ul li a {color:#fff;border-right:1px solid #000;border-left:1px solid #172e43;text-shadow:1px 1px #000}
+.jqueryslidemenu ul li a span {color:#A5A5A5;}
+.jqueryslidemenu ul li ul li ul{background:#353535;border:1px solid #0d2439}
+.jqueryslidemenu ul li ul li a:hover{background: #353535;}
+
+#featured_content h3 a, #other_news h2 a, #twitter_news h2 a, .post_content h2.entry_title, .post_content h2.entry_title a  {color:#36628a;}
+#footer_top {background:#0a1825 url(blue/footer_top_bg.jpg) repeat-x 0 0;}
+#footer_top p, #footer_top a {color:#a5a5a5!important}
+#footer_bottom {background:#03101D;border-top:1px solid #091d32;}
+.post_content h3, .post_content h4, .post_content h5, .post_content h6 {color:#36628a;}
+#author-info h4 a, #related_post h3, .sidebar-widget-title, h3#comments-title {color:#36628a;}
+
+
+#slide_nav a:hover, #slide_nav a.activeSlide {background:url(blue/hover.png) no-repeat 1px 1px}
+.home .cs-buttons a:hover, .home .cs-active {background:url(blue/hover.png) no-repeat 1px 1px}
+.nivo-controlNav a.active, .nivo-controlNav a:hover {background:url(blue/hover.png) no-repeat 1px 1px}
+
+
+.wp-pagenavi span.current {background:#397ab7}

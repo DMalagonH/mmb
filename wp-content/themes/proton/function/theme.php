@@ -1,0 +1,1 @@
+<?phprequire(THEME_ADMIN . '/admin-options-list.php');/* Load Theme configurations to apply to Theme */foreach($theme_admin_boxes as $theme_admin_box) {	$$theme_admin_box['name'] = get_option($theme_admin_box['name']);}?>
